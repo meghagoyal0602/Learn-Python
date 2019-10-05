@@ -1,0 +1,10 @@
+names=['Megha','Goyal']
+print(names)
+print(len(names))
+names.insert(1,'Anil')
+print(names)
+names.sort()
+print(names)
+presenters=names[0:2]
+print(names)
+print(presenters)
