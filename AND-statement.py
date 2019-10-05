@@ -26,5 +26,5 @@ else:
 if honour_roll:
     print('welldone')
 else:
-    print('NO')
+    print('NOTHING')
 
